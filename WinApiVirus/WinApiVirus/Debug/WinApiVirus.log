@@ -1,0 +1,62 @@
+﻿  main.cpp
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(81): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(81): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(81): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(81): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(85): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(85): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(85): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(85): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(89): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(89): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(89): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(89): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(93): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(93): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(93): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(93): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(97): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(97): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(97): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(97): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(101): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(101): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(101): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(101): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(105): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(105): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(105): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(105): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(109): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(109): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(109): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(109): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(113): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(113): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(113): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(113): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(117): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(117): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(117): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(117): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(121): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(121): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(121): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(121): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(125): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(125): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(125): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(125): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(129): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(129): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(129): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(129): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(133): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(133): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(133): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(133): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(137): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(137): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(137): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\user\source\repos\winapivirus\winapivirus\main.cpp(137): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  WinApiVirus.vcxproj -> C:\Users\user\source\repos\WinApiVirus\Debug\WinApiVirus.exe
